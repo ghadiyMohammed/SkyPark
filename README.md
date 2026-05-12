@@ -1,6 +1,6 @@
-# 🚗 KyPark – Smart Airport Valet Parking Platform
+# 🚗 SkyPark – Smart Airport Valet Parking Platform
 
-**KyPark** is a modern, end-to-end valet parking solution designed to transform the airport parking experience into a seamless, efficient, and fully digital service. The platform addresses common travel pain points such as time loss, parking uncertainty, and inconvenience by offering a structured, on-demand valet system.
+**SkyPark** is a modern, end-to-end valet parking solution designed to transform the airport parking experience into a seamless, efficient, and fully digital service. The platform addresses common travel pain points such as time loss, parking uncertainty, and inconvenience by offering a structured, on-demand valet system.
 
 Built with a user-centered approach, KyPark streamlines the entire parking journey—from vehicle handover to secure storage and final delivery—through a single, intuitive application.
 
